@@ -1,7 +1,7 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working in the Java domain.
-- 📸 Love photography.
+- 🔭 I’m currently studying in the Java field.
+- 🎵 Love music.
 - 😊 Love to record life.
 - 👻 I hope to be good friends with you!
 - 🗻 [csdn](https://blog.csdn.net/qq_46048008?spm=1000.2115.3001.5343)
